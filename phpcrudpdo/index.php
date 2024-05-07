@@ -1,4 +1,5 @@
 <?php
+// comment1
 // include database connection file
 require_once'dbconfig.php';
 

@@ -13,4 +13,6 @@ catch (PDOException $e)
 {
 exit("Error: " . $e->getMessage());
 }
+
+//comment1
 ?>
